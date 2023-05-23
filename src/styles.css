@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.popup {
+  background: #28272c;
+  width: 259px;
+  height: 270px;
+  position: absolute;
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.85);
+  border-radius: 12px;
+}
